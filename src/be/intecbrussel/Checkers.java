@@ -1,3 +1,5 @@
+package be.intecbrussel;
+
 import java.awt.*;
 import java.awt.event.*;
 

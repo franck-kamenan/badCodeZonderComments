@@ -1,3 +1,4 @@
+package be.intecbrussel;
 
 abstract public class Piece {
     private Timer t;

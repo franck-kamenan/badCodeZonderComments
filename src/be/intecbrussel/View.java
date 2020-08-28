@@ -1,3 +1,10 @@
+package be.intecbrussel;
+
+import be.intecbrussel.Board;
+import be.intecbrussel.Piece;
+import be.intecbrussel.Violet;
+import be.intecbrussel.White;
+
 import java.awt.*;
 
 

@@ -1,3 +1,7 @@
+package be.intecbrussel;
+
+import be.intecbrussel.Board;
+import be.intecbrussel.Timer;
 
 import java.awt.event.*;
 

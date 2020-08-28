@@ -1,4 +1,7 @@
+package be.intecbrussel;
 
+import be.intecbrussel.Piece;
+import be.intecbrussel.Timer;
 
 public class Violet extends Piece {
     private Timer t;

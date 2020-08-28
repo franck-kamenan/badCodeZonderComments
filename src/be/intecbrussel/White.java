@@ -1,4 +1,6 @@
+package be.intecbrussel;
 
+import be.intecbrussel.Piece;
 
 public class White extends Piece {
 

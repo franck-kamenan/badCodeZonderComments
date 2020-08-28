@@ -1,4 +1,4 @@
-
+package be.intecbrussel;
 
 public class Timer
 {

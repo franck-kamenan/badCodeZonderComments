@@ -1,3 +1,4 @@
+package be.intecbrussel;
 
 public class Board {
     public boolean mustTake;
